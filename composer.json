@@ -31,6 +31,9 @@
             "jdgOpenCode\\verifactu\\Tests\\": "tests/"
         }
     },
+    "provide": {
+        "jdgOpenCode/verifactu": "self.version"
+    },
     "scripts": {
         "test": "vendor/bin/phpunit"
     }
