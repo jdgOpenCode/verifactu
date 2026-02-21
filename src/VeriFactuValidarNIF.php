@@ -67,7 +67,9 @@ class VeriFactuValidarNIF
             echo "cURL error: " . curl_error($ch);
             return null;
         }
-        curl_close($ch);
+        if (PHP_VERSION_ID < 80500) {
+            curl_close($ch);
+        }
         return json_decode($response, true);
     }
 }

@@ -8,7 +8,7 @@ VERIFACTU es una librería PHP diseñada para facilitar el cumplimiento de los n
 
 El objetivo principal de esta librería es proporcionar a desarrolladores y empresas una herramienta robusta y confiable para la generación y envío de los registros de factura al sistema VERI*FACTU de la AEAT, simplificando el cumplimiento de las nuevas obligaciones fiscales.
 
-### Colaboración:
+### Colaboración: 
 
 ¡Tu participación es valiosa! Si tienes ideas, comentarios o deseas colaborar en este proyecto, eres bienvenido. Juntos podemos mejorar la librería VERI*FACTU y hacerla aún más útil para la comunidad.
 
